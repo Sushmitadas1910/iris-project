@@ -62,3 +62,4 @@ if st.button('Predict'):
         st.subheader(f'Prediction probability : {max_prob:.4f}')
     else:
         st.error('Prediction failed. Check input values or model files.')
+# application completed
